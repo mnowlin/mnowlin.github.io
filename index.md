@@ -3,7 +3,7 @@ layout: default
 title: About 
 ---
 
-<img align="left" src="me.jpg" width="500" height="500" />
+<img align="left" src="me.jpg" width="200" height="200" />
 
 
 ### Welcome
