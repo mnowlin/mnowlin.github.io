@@ -19,20 +19,11 @@ Nowlin, Matthew C. 2008. ["The Implementation of the Oklahoma Marriage Initiativ
 
 ### Working Papers
 
-"Modeling Issue Definitions using Quantitative Text Analysis" 
+"Modeling Issue Definitions using Quantitative Text Analysis." __Revise and Resubmit__: _Policy Studies Journal_. [Paper]() [GitHub](https://github.com/mnowlin/IssueDefinitions): replication materials 
 
-* __Revise and Resubmit__: _Policy Studies Journal_  
-* [github repo](https://github.com/mnowlin/IssueDefinitions): replication materials 
+"Policy Change, Policy Feedback, and Interest Mobilization: The Politics of Used Nuclear Fuel Management." _Under review_. [Paper]() [GitHub](https://github.com/mnowlin/PolicyChange): replication materials 
 
-"Policy Change, Policy Feedback, and Interest Mobilization: The Politics of Used Nuclear Fuel Management"
+"Cultural Theory and Bureaucratic Values: Examining Trust as a Motivation for Collaboration" (with Thaddieus Conner, Thomas Rabovsky, and Joseph Ripberger).
+ _Under review_. 
 
-* _under review_   
-* [github repo](https://github.com/mnowlin/PolicyChange): replication materials 
-
-"Cultural Theory and Bureaucratic Values: Examining Trust as a Motivation for Collaboration" (with Thaddieus Conner, Thomas Rabovsky, and Joseph Ripberger)
-
-* _under review_
-
-"Partisanship, Information, and Public Opinion about Yucca Mountain"
-
-* _under review_
+"Partisanship, Information, and Public Opinion about Yucca Mountain." _Under review_. [Paper]()
