@@ -19,7 +19,7 @@ Nowlin, Matthew C. 2008. ["The Implementation of the Oklahoma Marriage Initiativ
 
 ### Working Papers
 
-"Modeling Issue Definitions using Quantitative Text Analysis." __Revise and Resubmit__: _Policy Studies Journal_. [Paper]() [GitHub](https://github.com/mnowlin/IssueDefinitions): replication materials 
+"Modeling Issue Definitions using Quantitative Text Analysis." __Revise and Resubmit__: _Policy Studies Journal_. [[Paper]]() [GitHub](https://github.com/mnowlin/IssueDefinitions): replication materials 
 
 "Policy Change, Policy Feedback, and Interest Mobilization: The Politics of Used Nuclear Fuel Management." _Under review_. [Paper]() [GitHub](https://github.com/mnowlin/PolicyChange): replication materials 
 
