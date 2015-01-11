@@ -11,9 +11,6 @@ My [research]({{ site.url }}/research) and [teaching]({{ site.url }}/teaching) i
 [__Full CV__ (PDF)]({{ site.url }}/files/cvSHORT.pdf)
 
 email: [nowlinmc@cofc.edu](mailto:nowlinmc@cofc.edu)
-
 Twitter: [@nowlin_matt](https://twitter.com/nowlin_matt)
-
 [Google Scholar](https://scholar.google.com/citations?user=xu7Y7_QAAAAJ&hl=en)
-
 [PSJ Yearbook](http://psjyearbook.com/person/details/c0cf853b52c029b27f7abc42f837b46086b7)
