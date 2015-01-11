@@ -7,23 +7,29 @@ title: Research
 
 ### Publications
 
-Ripberger, Joseph T., Geoboo Song, Matthew C. Nowlin, Michael D. Jones, and Hank C. Jenkins-Smith. 2012. ["Reconsidering the Relationship Between Cultural Theory, Political Ideology, and Political Knowledge."]() _Social Science Quarterly_ 93(3): 713–31.
+Ripberger, Joseph T., Geoboo Song, Matthew C. Nowlin, Michael D. Jones, and Hank C. Jenkins-Smith. 2012. ["Reconsidering the Relationship Between Cultural Theory, Political Ideology, and Political Knowledge."]({{ site.url }}/files/ssq2012.pdf) _Social Science Quarterly_ 93(3): 713–31.
 
-Goebbert, Kevin, Hank C. Jenkins-Smith, Kim Klockow, Matthew C. Nowlin, and Carol L. Silva. 2012. ["Weather, Climate and Worldviews: The Sources and Consequences of Public Perceptions of Changes in Local Weather Patterns."]() _Weather, Climate, and Society_ 4(2): 132–44.
+Goebbert, Kevin, Hank C. Jenkins-Smith, Kim Klockow, Matthew C. Nowlin, and Carol L. Silva. 2012. ["Weather, Climate and Worldviews: The Sources and Consequences of Public Perceptions of Changes in Local Weather Patterns."]({{ site.url }}/files/wcs2012.pdf) _Weather, Climate, and Society_ 4(2): 132–44.
 
-Nowlin, Matthew C. 2011. ["Theories of the Policy Process: State of the Research and Emerging Trends."]() _Policy Studies Journal_ 39(s1): 41–60.
+Nowlin, Matthew C. 2011. ["Theories of the Policy Process: State of the Research and Emerging Trends."]({{ site.url }}/files/psj2012.pdf) _Policy Studies Journal_ 39(s1): 41–60.
 
-Jenkins-Smith, Hank C., Carol L. Silva, Matthew C. Nowlin, and Grant deLozier. 2011. ["Reversing Nuclear Opposition: Evolving Public Acceptance of a Permanent Nuclear Waste Disposal Facility."]() _Risk Analysis_ 31(4): 629–44.
+Jenkins-Smith, Hank C., Carol L. Silva, Matthew C. Nowlin, and Grant deLozier. 2011. ["Reversing Nuclear Opposition: Evolving Public Acceptance of a Permanent Nuclear Waste Disposal Facility."]({{ site.url }}/files/ra2011.pdf) _Risk Analysis_ 31(4): 629–44.
 
-Nowlin, Matthew C. 2008. ["The Implementation of the Oklahoma Marriage Initiative to Individuals Receiving Temporary Assistance for Needy Families."]() _Oklahoma Politics_ 18: 111–31.
+Nowlin, Matthew C. 2008. ["The Implementation of the Oklahoma Marriage Initiative to Individuals Receiving Temporary Assistance for Needy Families."]({{ site.url }}/files/op2008.pdf) _Oklahoma Politics_ 18: 111–31.
 
 ### Working Papers
 
-"Modeling Issue Definitions using Quantitative Text Analysis." __Revise and Resubmit__: _Policy Studies Journal_. [[Paper]]() [GitHub](https://github.com/mnowlin/IssueDefinitions): replication materials 
+"Modeling Issue Definitions using Quantitative Text Analysis." __Revise and Resubmit__: _Policy Studies Journal_. [GitHub (replication materials)](https://github.com/mnowlin/IssueDefinitions) 
 
-"Policy Change, Policy Feedback, and Interest Mobilization: The Politics of Used Nuclear Fuel Management." _Under review_. [Paper]() [GitHub](https://github.com/mnowlin/PolicyChange): replication materials 
+"Policy Change, Policy Feedback, and Interest Mobilization: The Politics of Used Nuclear Fuel Management." _Under review_. [Paper]({{ site.url }}/files/rpr2015.pdf). [GitHub (replication materials)](https://github.com/mnowlin/PolicyChange).
 
 "Cultural Theory and Bureaucratic Values: Examining Trust as a Motivation for Collaboration" (with Thaddieus Conner, Thomas Rabovsky, and Joseph Ripberger).
  _Under review_. 
 
-"Partisanship, Information, and Public Opinion about Yucca Mountain." _Under review_. [Paper]()
+"Partisanship, Information, and Public Opinion about Yucca Mountain." _Under review_. [Paper]({{ site.url }}/files/ans2015.pdf).
+
+"Competing Issue Definitions and Information Processing in
+Congress." [Presentation]({{ site.url }}/files/pcs2014.pdf).
+
+"Ideology, Science Literacy, and the Polarization of
+Science-Based Policy Issues."[Poster]({{ site.url }}/files/apsa2014.pdf). [GitHub (replication materials)](https://github.com/mnowlin/ScienceLiteracy).
