@@ -32,4 +32,4 @@ Nowlin, Matthew C. 2008. ["The Implementation of the Oklahoma Marriage Initiativ
 Congress." [Presentation]({{ site.url }}/files/pcs2014.pdf).
 
 "Ideology, Science Literacy, and the Polarization of
-Science-Based Policy Issues."[Poster]({{ site.url }}/files/apsa2014.pdf). [GitHub (replication materials)](https://github.com/mnowlin/ScienceLiteracy).
+Science-Based Policy Issues." [Poster]({{ site.url }}/files/apsa2014.pdf). [GitHub (replication materials)](https://github.com/mnowlin/ScienceLiteracy).
