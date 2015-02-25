@@ -7,7 +7,7 @@ title: Research
 
 ### Publications
 
-Nowlin, Mattew C. 2015. ["Partisanship, Information, and Public Opinion about Yucca Mountain"]({{ site.url }}/files/nowlinANS2015v2) _Proceedings of the 16th International High-Level Radioactive Waste Management Conference_, American Nuclear Society.
+Nowlin, Mattew C. 2015. ["Partisanship, Information, and Public Opinion about Yucca Mountain"]({{ site.url }}/files/nowlinANS2015v2.pdf) _Proceedings of the 16th International High-Level Radioactive Waste Management Conference_, American Nuclear Society.
 
 Ripberger, Joseph T., Geoboo Song, Matthew C. Nowlin, Michael D. Jones, and Hank C. Jenkins-Smith. 2012. ["Reconsidering the Relationship Between Cultural Theory, Political Ideology, and Political Knowledge."]({{ site.url }}/files/ssq2012.pdf) _Social Science Quarterly_ 93(3): 713–31.
 
