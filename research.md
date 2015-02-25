@@ -7,6 +7,8 @@ title: Research
 
 ### Publications
 
+Nowlin, Mattew C. 2015. ["Partisanship, Information, and Public Opinion about Yucca Mountain"]({{ site.url }}/files/nowlinANS2015v2) _Proceedings of the 16th International High-Level Radioactive Waste Management Conference_, American Nuclear Society.
+
 Ripberger, Joseph T., Geoboo Song, Matthew C. Nowlin, Michael D. Jones, and Hank C. Jenkins-Smith. 2012. ["Reconsidering the Relationship Between Cultural Theory, Political Ideology, and Political Knowledge."]({{ site.url }}/files/ssq2012.pdf) _Social Science Quarterly_ 93(3): 713–31.
 
 Goebbert, Kevin, Hank C. Jenkins-Smith, Kim Klockow, Matthew C. Nowlin, and Carol L. Silva. 2012. ["Weather, Climate and Worldviews: The Sources and Consequences of Public Perceptions of Changes in Local Weather Patterns."]({{ site.url }}/files/wcs2012.pdf) _Weather, Climate, and Society_ 4(2): 132–44.
@@ -25,8 +27,6 @@ Nowlin, Matthew C. 2008. ["The Implementation of the Oklahoma Marriage Initiativ
 __Revise and Resubmit__:  _Public Administration_. 
 
 "Policy Change, Policy Feedback, and Interest Mobilization: The Politics of Used Nuclear Fuel Management." _Under review_. [Paper]({{ site.url }}/files/rpr2015.pdf). [GitHub (replication materials)](https://github.com/mnowlin/PolicyChange).
-
-"Partisanship, Information, and Public Opinion about Yucca Mountain." _Under review_. [Paper]({{ site.url }}/files/ans2015.pdf).
 
 "Competing Issue Definitions and Information Processing in
 Congress." [Presentation]({{ site.url }}/files/pcs2014.pdf).
