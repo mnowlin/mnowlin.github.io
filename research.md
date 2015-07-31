@@ -25,10 +25,10 @@ title: Research
 ### Working Papers
 
 * "Cultural Theory and Bureaucratic Values: Examining Trust as a Motivation for Collaboration" (with Thaddieus Conner, Thomas Rabovsky, and Joseph Ripberger).
-     * __Revise and Resubmit__:  _Public Administration_. 
+     * __Accepted__:  _Public Administration_. 
 
-* "Policy Change, Policy Feedback, and Interest Mobilization: The Politics of Used Nuclear Fuel Management."
-    * __Revise and Resubmit__: _Review of Policy Research_. 
+* "Policy Change, Policy Feedback, and Interest Mobilization: The Politics of Nuclear Waste Management."
+    * __Accepted__: _Review of Policy Research_. 
     * [GitHub](https://github.com/mnowlin/PolicyChange).
 
 * "Competing Issue Definitions and Information Processing in
