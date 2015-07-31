@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: home
 title: About 
 ---
 
@@ -15,3 +15,22 @@ My [research]({{ site.url }}/research) and [teaching]({{ site.url }}/teaching) i
 email: [nowlinmc@cofc.edu](mailto:nowlinmc@cofc.edu)  
 [Google Scholar](https://scholar.google.com/citations?user=xu7Y7_QAAAAJ&hl=en)  
 [PSJ Yearbook](http://psjyearbook.com/person/details/c0cf853b52c029b27f7abc42f837b46086b7)
+
+
+
+	
+	
+	
+	
+	
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
