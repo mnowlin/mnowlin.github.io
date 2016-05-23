@@ -19,21 +19,14 @@ owner:
  google_scholar: xu7Y7_QAAAAJ
  github: mnowlin
 google_analytics: UA-78078808-1
-menu:
-  main:
-      - Name: "Publications"
-        URL: "/publications"
-        Weight: 2
-      - Name: "Research"
-        URL: "/research"
-        Weight: 3
-      - Name: "Teaching"
-        URL: "/teaching"
-        Weight: 4
-      - Name: "Blog"
-        URL: "/blog"
-        Weight: 5
-permalinks:
-  blog: /blog/archives/:year/:month/:day/:slug
-  archive: /blog/archives/
+links:
+      - title: "Publications"
+        url: "/publications"
+      - title: "Research"
+        url: "/research"
+      - title: "Teaching"
+        url: "/teaching"
+      - title: "Blog"
+        url: "/blog"
+permalinks: /:categories/:title/
 ...
