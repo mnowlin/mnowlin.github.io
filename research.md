@@ -6,6 +6,6 @@ tags: [publications]
 comments: false
 ---
 
-### Publications
+## Publications
 
-* Nowlin, Matthew C. 2015. ["Modeling Issue Definitions using Quantitative Text Analysis."]({{ site.url }}/files/psj2015.pdf) _Policy Studies Journal_, Forthcoming.
+[Theories of the Policy Process]({{ site.url}}/research/psj2011.md)
