@@ -8,4 +8,4 @@ comments: false
 
 ## Publications
 
-[Theories of the Policy Process]({{ site.url}}/research/psj2011.md)
+[Theories of the Policy Process]({{ site.url}}/research/psj2011)
