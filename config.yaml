@@ -8,7 +8,7 @@ pygmentsuseclasses: true
 baseurl: "https://www.matthewcnowlin.com"
 indexes:
   category: "categories"
-title: "Matthew C. Nowlin"
+title: "matthewcnowlin.com"
 CanonifyUrls: true
 menu:
   main:
