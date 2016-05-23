@@ -9,7 +9,7 @@
 
 <body class="page">
 
-{% include _browser-upgrade.html %}
+  {% include _browser-upgrade.html %}
 
 {% include _navigation.html %}
 
@@ -37,23 +37,31 @@
   <article>
     <h1>{{ page.title }}</h1>
     <div class="article-wrap">
-      {{ content }} 
-      <a class="twitter-timeline" href="https://twitter.com/nowlin_matt" data-widget-id="734591092788715521">Tweets by @nowlin_matt</a>
-      <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
-    </div><!-- /.article-wrap -->
-    {% if site.disqus_shortname and page.comments %}
-      <section id="disqus_thread"></section><!-- /#disqus_thread -->
-    {% endif %}
-  </article>
-</div><!-- /#index -->
+      {{ content }}
 
-<div class="footer-wrap">
-  <footer>
-    {% include _footer.html %}
-  </footer>
-</div><!-- /.footer-wrap -->
+  <div class="wrapper">
+    <div class="units-row">	
+      <div class="unit-20">&nbsp;</div>
+      <div class="unit-60"><h2><a href="">{{ .Title | safeHTML }}</a></h2></div>
+    </div>
+    <div class="units-row">		
+      <div class="unit-20 dateblock"><p>{{.Params.author}}, {{ .Params.citation | safeHTML }}</p>
+        {{ if .Params.doi }}<p class="small"><a href="http://dx.doi.org/{{.Params.doi}}">doi:{{.Params.doi}}</a></p>{{ end }}
+        {{ if .Params.file }}<p><a href="{{.Site.BaseURL}}files/papers/{{.Params.file}}" class="badge badge-red"><i class="fa fa-file-pdf-o"></i>&nbsp;download pdf</a></p>{{ end }}
+      </div>
+      <div class="unit-60">
+        {{ .Content }}
+        <hr>
+        {{ if .PrevInSection }}
+        <a href="{{.PrevInSection.Permalink}}"> &laquo;&nbsp;{{.PrevInSection.Title}}</a> | {{ end }}<a href="{{ $baseurl }}/publications"><em>Publications List</em></a>{{ if .NextInSection }} | <a href="{{.NextInSection.Permalink}}">{{.NextInSection.Title}}&nbsp;&raquo; </a>
+        {{ end }}
+      </div>      
+    </div>
+  </div>
 
-{% include _scripts.html %}          
-
+  <hr class="separator">
+  
 </body>
 </html>
+
+
