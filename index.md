@@ -11,3 +11,6 @@ I am an assistant professor of [Political Science](http://polisci.cofc.edu/) at 
 
 My [research]({{ site.url }}/research) and [teaching]({{ site.url }}/teaching) interests are in public policy, with a specific interest in environmental and energy policy.
 
+## Recent Publications
+
+## Current Courses 
