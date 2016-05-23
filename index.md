@@ -3,8 +3,6 @@ layout: home2
 title: About 
 description: "about me"
 tags: [Jekyll, theme, responsive, blog, template]
-image:
-  feature: cap.jpg
 ---
 
 I am an assistant professor of [Political Science](http://polisci.cofc.edu/) at the [College of Charleston](http://cofc.edu/). 
