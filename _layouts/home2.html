@@ -38,6 +38,15 @@
     <h1>{{ page.title }}</h1>
     <div class="article-wrap">
       {{ content }}
+ <h3>Recent Papers</h3>
+          <ul class="compact fa-ul">
+            {{ range first 5 (where .Data.Pages.ByDate "Section" "publications").Reverse }}
+            <li><i class="fa-li fa  {{ if eq .Type "unpublished" }}fa-file-o {{ else if eq .Params.kind "book" }}fa-book {{ else }}fa-file {{ end }} fa-fw" style="color:#03396c;font-size:80%;padding-top:6px;"></i> {{ .Params.citation | safeHTML }} 
+              <a href="{{ .Permalink }}" class="badge badge-small">Abstract</a>
+              {{ if isset .Params "file" }}<a href="{{.Site.BaseURL}}files/papers/{{ .Params.file }}" class="badge badge-small"><i class="fa fa-file-pdf-o"></i>&nbsp;pdf</a>{{ end }}
+            </li>
+	    {{ end }}
+          </ul>	   
       <a class="twitter-timeline" href="https://twitter.com/nowlin_matt" data-widget-id="734591092788715521">Tweets by @nowlin_matt</a>
       <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
     </div><!-- /.article-wrap -->
