@@ -19,7 +19,7 @@ comments: false
 
 ## Publications
 
-[Theories of the Policy Process]({{ site.url}}/research/psj2011.html)
+2011 <i class="fa fa-file"></i> <a href={{ site.url}}/research/psj2011.html>"Theories of the Policy Process: State of the Research and Emerging Trends"<em>Policy Studies Journal</em>,39(s1):41-60</a> 
 
 
 ## Working Papers 
