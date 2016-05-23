@@ -15,7 +15,11 @@ comments: false
     </div>
   </div>
 
+<hr class="separator">
 
 ## Publications
 
-[Theories of the Policy Process]({{ site.url}}/research/psj2011)
+[Theories of the Policy Process]({{ site.url}}/research/psj2011.html)
+
+
+## Working Papers 
