@@ -20,13 +20,9 @@ owner:
  github: mnowlin
 google_analytics: UA-78078808-1
 links:
- - title: Publications
-   url: /publications/
  - title: Research
    url: /research/
  - title: Teaching
    url: /teaching/
- - title: Blog
-   url: /blog/
 permalinks: /:categories/:title/
 ...

@@ -1,9 +1,8 @@
 ---
-layout: publications
-permalink: /publications/
-title: My Publications
+layout: research
+permalink: /research/
+title: Research
 tags: [publications]
-modified: 8-7-2014
 comments: false
 ---
 
