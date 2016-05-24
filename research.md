@@ -42,5 +42,5 @@ comments: false
 
 ## Working Papers 
 
-<p>2016&nbsp;&nbsp;&nbsp;&nbsp;<i class="fa fa-file-o">The Climate Change Policy Regime and Information Networks in the United States Congress</i>&nbsp;&nbsp;<a href="{{ site.url}}/research/nowlinMPSA2016.html">""</a></p>
+<p>2016&nbsp;&nbsp;&nbsp;&nbsp;<i class="fa fa-file-o"></i>&nbsp;&nbsp;<a href="{{ site.url}}/research/nowlinMPSA2016.html">"The Climate Change Policy Regime and Information Networks in the United States Congress"</a></p>
 
