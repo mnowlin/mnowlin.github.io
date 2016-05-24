@@ -20,6 +20,8 @@ My [research]({{ site.url }}/research) and [teaching]({{ site.url }}/teaching) i
 <br />
 <p>2016&nbsp;&nbsp;&nbsp;&nbsp; <i class="fa fa-file"></i>&nbsp;&nbsp;<a href="{{ site.url}}/research/pa2016.html">"Cultural Theory and Managerial Values: Examining Trust as a Motivation for Collaboration."</a>&nbsp;<em>Public Adminstration</em>,&nbsp;Forthcoming</p>
 
+<nav class="navbar navbar-right"><a href="{{ site.url }}/research">&rarr; Other Papers</a></nav>
+
 ## Current Courses 
 
 <i class="fa fa-mortar-board"></i>&nbsp;&nbsp;American Government (POLI 101), Fall 2016
@@ -27,4 +29,4 @@ My [research]({{ site.url }}/research) and [teaching]({{ site.url }}/teaching) i
 <br />
 <i class="fa fa-mortar-board"></i>&nbsp;&nbsp;Public Policy (EVSS/PUBA 602), Fall 2016
 
-<nav class="navbar navbar-right"><br /><a href="{{ site.url }}/teaching">&rarr; Other Courses</a></nav>
+<nav class="navbar navbar-right"><a href="{{ site.url }}/teaching">&rarr; Other Courses</a></nav>
