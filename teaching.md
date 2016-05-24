@@ -1,5 +1,6 @@
 ---
 layout: teaching
+permalink: /teaching/
 title: Teaching
 ---
 

@@ -22,9 +22,9 @@ My [research]({{ site.url }}/research) and [teaching]({{ site.url }}/teaching) i
 
 ## Current Courses 
 
-<i class="fa fa-mortar-board"></i><p>&nbsp;&nbsp;American Government (POLI 101), Fall 2016</p>
+<i class="fa fa-mortar-board"></i>&nbsp;&nbsp;American Government (POLI 101), Fall 2016
 
 <br />
-<i class="fa fa-mortar-board"></i><p>&nbsp;&nbsp;Public Policy (EVSS/PUBA 602), Fall 2016</p>
+<i class="fa fa-mortar-board"></i>&nbsp;&nbsp;Public Policy (EVSS/PUBA 602), Fall 2016
 
-<nav class="navbar navbar-right"><br /><a href={{ site.url }}/teaching>&rarr; Other Courses</a></nav>
+<nav class="navbar navbar-right"><br /><a href="{{ site.url }}/teaching">&rarr; Other Courses</a></nav>
