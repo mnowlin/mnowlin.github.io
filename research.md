@@ -25,6 +25,10 @@ comments: false
 <p>2015&nbsp;&nbsp;&nbsp;&nbsp; <i class="fa fa-file"></i>&nbsp;&nbsp;<a href="{{ site.url}}/research/ans2015.html">"Partisanship, Information, and Public Opinion about Yucca Mountain."</a>&nbsp;<em>Proceedings of the 15th International High-Level Radioactive Waste Management Conference</em>,&nbsp;226-231</p>
 
 <br />
+<p>2012&nbsp;&nbsp;&nbsp;&nbsp; <i class="fa fa-file"></i>&nbsp;&nbsp;<a href="{{ site.url}}/research/ssq2012.html">"Reconsidering the Relationship Between Cultural Theory, Political Ideology, and Political Knowledge."</a>&nbsp;<em>Social Science Quarterly</em>,&nbsp;99(3):713-731</p>
+
+
+<br />
 <p>2011&nbsp;&nbsp;&nbsp;&nbsp; <i class="fa fa-file"></i>&nbsp;&nbsp;<a href="{{ site.url}}/research/psj2011.html">"Theories of the Policy Process: State of the Research and Emerging Trends"</a>&nbsp;<em>Policy Studies Journal</em>,&nbsp;39(s1):41-60</p>
 
 
