@@ -18,6 +18,12 @@ My [research]({{ site.url }}/research) and [teaching]({{ site.url }}/teaching) i
 <br />
 <p>2016&nbsp;&nbsp;&nbsp;&nbsp; <i class="fa fa-file"></i>&nbsp;&nbsp;<a href="{{ site.url}}/research/pa2016.html">"Cultural Theory and Managerial Values: Examining Trust as a Motivation for Collaboration."</a>&nbsp;<em>Public Adminstration</em>,&nbsp;Forthcoming</p>
 
+<br />
+<p>2016&nbsp;&nbsp;&nbsp;&nbsp;<i class="fa fa-file-o"></i>&nbsp;&nbsp;<a href="{{ site.url}}/research/nowlinMPSA2016.html">"The Climate Change Policy Regime and Information Networks in the United States Congress"</a></p>
+
+<br />
+<p>2016&nbsp;&nbsp;&nbsp;&nbsp;<i class="fa fa-file-o"></i>&nbsp;&nbsp;<a href="{{ site.url}}/research/nowlin_parkinsonMPSA2016.html">"Cultural or Scientific Consensus? Cultural Cognition, Climate Science Knowledge, and Policy Preferences"</a></p>
+
 <nav class="navbar navbar-right"><a href="{{ site.url }}/research">&rarr; Other Papers</a></nav>
 
 ## Current Courses 
