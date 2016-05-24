@@ -21,6 +21,10 @@ comments: false
 
 <p>Forthcoming&nbsp;&nbsp;&nbsp;&nbsp; <i class="fa fa-file"></i>&nbsp;&nbsp;<a href="{{ site.url}}/research/psj2016.html">"Modeling Issue Definitions using Quantitative Text Analysis."</a>&nbsp;<em>Policy Studies Journal</em>,&nbsp;Forthcoming</p>
 
+<br />
+<p>Forthcoming&nbsp;&nbsp;&nbsp;&nbsp; <i class="fa fa-file"></i>&nbsp;&nbsp;<a href="{{ site.url}}/research/pa2016.html">"Cultural Theory and Managerial Values: Examining Trust as a Motivation for Collaboration."</a>&nbsp;<em>Public Adminstration</em>,&nbsp;Forthcoming</p>
+
+<br />
 <p>2011&nbsp;&nbsp;&nbsp;&nbsp; <i class="fa fa-file"></i>&nbsp;&nbsp;<a href="{{ site.url}}/research/psj2011.html">"Theories of the Policy Process: State of the Research and Emerging Trends"</a>&nbsp;<em>Policy Studies Journal</em>,&nbsp;39(s1):41-60</p>
 
 
