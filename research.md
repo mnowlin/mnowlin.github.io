@@ -42,4 +42,5 @@ comments: false
 
 ## Working Papers 
 
-2011 <i class="fa fa-file-o"></i> <a href="{{ site.url}}/research/psj2011.html">"Theories of the Policy Process: State of the Research and Emerging Trends"<em>Policy Studies Journal</em>,39(s1):41-60</a> 
+<p>2016&nbsp;&nbsp;&nbsp;&nbsp;<i class="fa fa-file-o">The Climate Change Policy Regime and Information Networks in the United States Congress</i>&nbsp;&nbsp;<a href="{{ site.url}}/research/nowlinMPSA2016.html">""</a></p>
+
