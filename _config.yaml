@@ -24,6 +24,8 @@ links:
    url: /research/
  - title: Teaching
    url: /teaching/
+ - title: Blog
+   url: /blog/
 permalinks:
   blog: /blog/archives/:year/:month/:day/:slug
   archive: /blog/archives/
