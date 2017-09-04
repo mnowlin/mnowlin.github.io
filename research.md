@@ -6,7 +6,7 @@ tags: [publications]
 comments: false
 ---
 
-This page presents my published and in progress research. For much information click on the title.  
+This page presents my published and in progress research. For more information click on the title.  
 
 <br />
 <p>Here is my <em>Curriculum Vitae</em><a href="{{ site.url }}/files/nowlinCVfull.pdf" class="badge badge-small">&nbsp;&nbsp;<i class="fa fa-file-pdf-o"></i>&nbsp;pdf</a></p>
