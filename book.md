@@ -2,6 +2,7 @@
 layout: teaching
 permalink: /book/
 title: Environmental Policymaking and Governance in an Era of Climate Change
+---
 
 Book project under contract with _Routledge_
 
