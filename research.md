@@ -8,7 +8,8 @@ comments: false
 
 This page presents my published and in progress research. For much information click on the title.  
 
-Here is my <p><em>Curriculum Vitae</em><a href="{{ site.url }}/files/nowlinCVfull.pdf" class="badge badge-small">&nbsp;&nbsp;<i class="fa fa-file-pdf-o"></i>&nbsp;pdf</a></p>
+<br />
+<p>Here is my<em>Curriculum Vitae</em><a href="{{ site.url }}/files/nowlinCVfull.pdf" class="badge badge-small">&nbsp;&nbsp;<i class="fa fa-file-pdf-o"></i>&nbsp;pdf</a></p>
        
 
 <hr class="separator">
@@ -17,6 +18,7 @@ Here is my <p><em>Curriculum Vitae</em><a href="{{ site.url }}/files/nowlinCVful
 
 <p>2017&nbsp;&nbsp;&nbsp;&nbsp; <i class="fa fa-file"></i>&nbsp;&nbsp;<a href="{{ site.url}}/research/pgi2017.html">"'Hot Rocks that Shoot Ghost Bullets': Native American Perceptions of a Nuclear Waste Facility."</a>&nbsp;<em>Politics, Groups, and Identities</em>,&nbsp;Forthcoming</p>
 
+<br />
 <p>2016&nbsp;&nbsp;&nbsp;&nbsp; <i class="fa fa-file"></i>&nbsp;&nbsp;<a href="{{ site.url}}/research/psj2016.html">"Modeling Issue Definitions using Quantitative Text Analysis."</a>&nbsp;<em>Policy Studies Journal</em>,&nbsp; 44(3): 309-331</p>
 
 <br />
