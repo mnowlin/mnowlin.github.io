@@ -13,10 +13,10 @@ My [research]({{ site.url }}/research) and [teaching]({{ site.url }}/teaching) i
 
 ## Recent Papers
 
-<p>2016&nbsp;&nbsp;&nbsp;&nbsp; <i class="fa fa-file"></i>&nbsp;&nbsp;<a href="{{ site.url}}/research/psj2016.html">"Modeling Issue Definitions using Quantitative Text Analysis."</a>&nbsp;<em>Policy Studies Journal</em>,&nbsp;Forthcoming</p>
+<p>2017&nbsp;&nbsp;&nbsp;&nbsp; <i class="fa fa-file"></i>&nbsp;&nbsp;<a href="{{ site.url}}/research/pgi2017.html">"'Hot Rocks that Shoot Ghost Bullets': Native American Perceptions of a Nuclear Waste Facility."</a>&nbsp;<em>Politics, Groups, and Identities</em>,&nbsp;Forthcoming</p>
 
 <br />
-<p>2016&nbsp;&nbsp;&nbsp;&nbsp; <i class="fa fa-file"></i>&nbsp;&nbsp;<a href="{{ site.url}}/research/pa2016.html">"Cultural Theory and Managerial Values: Examining Trust as a Motivation for Collaboration."</a>&nbsp;<em>Public Adminstration</em>,&nbsp;Forthcoming</p>
+<p>2016&nbsp;&nbsp;&nbsp;&nbsp; <i class="fa fa-file"></i>&nbsp;&nbsp;<a href="{{ site.url}}/research/psj2016.html">"Modeling Issue Definitions using Quantitative Text Analysis."</a>&nbsp;<em>Policy Studies Journal</em>,&nbsp;44(3): 309-331</p>
 
 <br />
 <p>2016&nbsp;&nbsp;&nbsp;&nbsp;<i class="fa fa-file-o"></i>&nbsp;&nbsp;<a href="{{ site.url}}/research/nowlinMPSA2016.html">"The Climate Change Policy Regime and Information Networks in the United States Congress"</a></p>
@@ -28,9 +28,9 @@ My [research]({{ site.url }}/research) and [teaching]({{ site.url }}/teaching) i
 
 ## Current Courses 
 
-<i class="fa fa-mortar-board"></i>&nbsp;&nbsp;American Government (POLI 101), Fall 2016
+<i class="fa fa-mortar-board"></i>&nbsp;&nbsp;Sustainable Resource Management (POLI 319), Fall 2017
 
 <br />
-<i class="fa fa-mortar-board"></i>&nbsp;&nbsp;Public Policy (EVSS/PUBA 602), Fall 2016
+<i class="fa fa-mortar-board"></i>&nbsp;&nbsp;Public Policy (EVSS/PUBA 602), Fall 2017
 
 <nav class="navbar navbar-right"><a href="{{ site.url }}/teaching">&rarr; Other Courses</a></nav>

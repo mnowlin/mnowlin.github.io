@@ -6,17 +6,21 @@ tags: [publications]
 comments: false
 ---
 
-   <p><em>Curriculum Vitae</em><a href="{{ site.url }}/files/nowlinCV2016.pdf" class="badge badge-small">&nbsp;&nbsp;<i class="fa fa-file-pdf-o"></i>&nbsp;pdf</a></p>
+This page presents my published and in progress research. For much information click on the title.  
+
+Here is my <p><em>Curriculum Vitae</em><a href="{{ site.url }}/files/nowlinCVfull.pdf" class="badge badge-small">&nbsp;&nbsp;<i class="fa fa-file-pdf-o"></i>&nbsp;pdf</a></p>
        
 
 <hr class="separator">
 
 ## Publications
 
-<p>2016&nbsp;&nbsp;&nbsp;&nbsp; <i class="fa fa-file"></i>&nbsp;&nbsp;<a href="{{ site.url}}/research/psj2016.html">"Modeling Issue Definitions using Quantitative Text Analysis."</a>&nbsp;<em>Policy Studies Journal</em>,&nbsp;Forthcoming</p>
+<p>2017&nbsp;&nbsp;&nbsp;&nbsp; <i class="fa fa-file"></i>&nbsp;&nbsp;<a href="{{ site.url}}/research/pgi2017.html">"'Hot Rocks that Shoot Ghost Bullets': Native American Perceptions of a Nuclear Waste Facility."</a>&nbsp;<em>Politics, Groups, and Identities</em>,&nbsp;Forthcoming</p>
+
+<p>2016&nbsp;&nbsp;&nbsp;&nbsp; <i class="fa fa-file"></i>&nbsp;&nbsp;<a href="{{ site.url}}/research/psj2016.html">"Modeling Issue Definitions using Quantitative Text Analysis."</a>&nbsp;<em>Policy Studies Journal</em>,&nbsp; 44(3): 309-331</p>
 
 <br />
-<p>2016&nbsp;&nbsp;&nbsp;&nbsp; <i class="fa fa-file"></i>&nbsp;&nbsp;<a href="{{ site.url}}/research/pa2016.html">"Cultural Theory and Managerial Values: Examining Trust as a Motivation for Collaboration."</a>&nbsp;<em>Public Adminstration</em>,&nbsp;Forthcoming</p>
+<p>2016&nbsp;&nbsp;&nbsp;&nbsp; <i class="fa fa-file"></i>&nbsp;&nbsp;<a href="{{ site.url}}/research/pa2016.html">"Cultural Theory and Managerial Values: Examining Trust as a Motivation for Collaboration."</a>&nbsp;<em>Public Adminstration</em>,&nbsp;94(4): 915-932</p>
 
 <br />
 <p>2016&nbsp;&nbsp;&nbsp;&nbsp; <i class="fa fa-file"></i>&nbsp;&nbsp;<a href="{{ site.url}}/research/rpr2016.html">"Policy Change, Policy Feedback, and Interest Mobilization: The Politics of Nuclear Waste Management."</a>&nbsp;<em>Review of Policy Research</em>,&nbsp;33(1):51-70</p>

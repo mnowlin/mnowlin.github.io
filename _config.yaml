@@ -24,8 +24,10 @@ links:
    url: /research/
  - title: Teaching
    url: /teaching/
- - title: Blog
+ - title: Notes
    url: /blog/
+ - tite: Book
+   url: /book/
 permalinks:
   blog: /blog/archives/:year/:month/:day/:slug
   archive: /blog/archives/
