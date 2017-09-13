@@ -8,7 +8,7 @@ title: Environmental Policymaking and Governance in an Era of Climate Change
 The book project examines potential pathways for climate change policymaking in the United States given the structure of institutions and the nature of environmental policy development. It is currently under contract with _Routledge_. 
 
 <br />
-<img align="middle" width="500" src="system.png" alt="AHH">
+<img align="middle" width="200" src="{{ site.url }}/system.png" alt="...">
 <br />
 
 
