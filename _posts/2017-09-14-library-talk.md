@@ -10,7 +10,7 @@ I recently had the honor to be invited to give a public talk on climate change a
 Here are the slides from the talk: <a href="{{ site.url }}/files/gccPres2017.pdf"><i class="fa fa-file-powerpoint-o"></i>&nbsp;slides</a>
 
 <br />
-Here is video used to promote the talk: <object width="560" height="315" data="https://www.youtube.com/embed/ICCyHKP4d00" frameborder="0" allowfullscreen></object> 
+Here is a video used to promote the talk: <object width="560" height="315" data="https://www.youtube.com/embed/ICCyHKP4d00" frameborder="0" allowfullscreen></object> 
 
 <br />
 Here are some images from the talk (Thanks Gibbs!): 
