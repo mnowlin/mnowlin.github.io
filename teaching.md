@@ -1,10 +1,16 @@
 ---
 layout: teaching
 permalink: /teaching/
-title: Teaching
+title: Current and Past Courses
 ---
 
-### Undergraduate Courses
+## Current Courses
+
+<i class="fa fa-mortar-board"></i>&nbsp;&nbsp;<a href="{{ site.url}}/teaching/poli319.html">"Sustainable Resource Management"</a> 
+
+[Public Policy]({{ site.url }}/files/evss_puba602Spr14.pdf)
+
+## Past Courses
 
 [American Government]({{ site.url }}/files/pols101_syllabus.pdf)
 
@@ -16,6 +22,5 @@ Environmental Policy
 
 [FYE: The Politcs of Nuclear Energy in the US]({{ site.url }}/files/FYEsyllabus.pdf)
 
-### Graduate Courses
 
-[Public Policy]({{ site.url }}/files/evss_puba602Spr14.pdf)
+

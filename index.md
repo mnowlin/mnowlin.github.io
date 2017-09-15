@@ -1,8 +1,10 @@
 ---
 layout: home2
-title: About 
+title:
 description: "about me"
 ---
+
+<em>Curriculum Vitae</em><a href="{{ site.url }}/files/nowlinCVfull.pdf" class="badge badge-small">&nbsp;&nbsp;<i class="fa fa-file-pdf-o"></i>&nbsp;pdf</a>
 
 I am an assistant professor of [Political Science](http://polisci.cofc.edu/) at the [College of Charleston](http://cofc.edu/). 
 
