@@ -6,9 +6,10 @@ title: Current and Past Courses
 
 ## Current Courses
 
-<i class="fa fa-mortar-board"></i>&nbsp;&nbsp;<a href="{{ site.url}}/teaching/poli319.html">"Sustainable Resource Management"</a> 
+<i class="fa fa-mortar-board"></i>&nbsp;&nbsp;<a href="{{ site.url}}/teaching/poli319.html">Sustainable Resource Management (POLI 319)</a> 
 
-[Public Policy]({{ site.url }}/files/evss_puba602Spr14.pdf)
+<i class="fa fa-mortar-board"></i>&nbsp;&nbsp;<a href="{{ site.url}}/teaching/evss602.html">Public Policy (EVSS/PUBA)</a> 
+
 
 ## Past Courses
 

@@ -6,6 +6,7 @@ description: "about me"
 
 <em>Curriculum Vitae</em><a href="{{ site.url }}/files/nowlinCVfull.pdf" class="badge badge-small">&nbsp;&nbsp;<i class="fa fa-file-pdf-o"></i>&nbsp;pdf</a>
 
+<br />
 I am an assistant professor of [Political Science](http://polisci.cofc.edu/) at the [College of Charleston](http://cofc.edu/). 
 
 <!--and a research fellow with the [Initiative for Public Choice and Market Process](http://sb.cofc.edu/centers/publicchoice/).-->
@@ -30,7 +31,7 @@ My [research]({{ site.url }}/research) and [teaching]({{ site.url }}/teaching) i
 
 ## Current Courses 
 
-<i class="fa fa-mortar-board"></i>&nbsp;&nbsp;Sustainable Resource Management (POLI 319), Fall 2017
+<i class="fa fa-mortar-board"></i>&nbsp;&nbsp;<a href="{{ site.url}}/teaching/poli319.html">Sustainable Resource Management (POLI 319)</a> 
 
 <br />
 <i class="fa fa-mortar-board"></i>&nbsp;&nbsp;Public Policy (EVSS/PUBA 602), Fall 2017
