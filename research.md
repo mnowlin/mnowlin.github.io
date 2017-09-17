@@ -6,10 +6,10 @@ tags: [publications]
 comments: false
 ---
 
-Currently I have two major project in development including a [book](http://matthewcnowlin.com/book/) project on climate change policy and [Our Coastal Future Forum](http://www.scseagrant.org/Content/?cid=937).
+Currently I have two major projects in development; a [book](http://matthewcnowlin.com/book/) project on climate change policy and [Our Coastal Future Forum](http://www.scseagrant.org/Content/?cid=937).
 
 <br />
-Our Coastal Future Forum received funding from a National Academies [Gulf Research Program](http://www.nationalacademies.org/gulf/index.html) exploratory grant in 2016. The project entitled, _Can deliberative discussions lay a foundation for integrated decision-making networks?_ seeks to engage the public, natural resource managers, and decision-makers in a deliberative process to address issues facing coastal communities. 
+Our Coastal Future Forum received funding from a National Academies [Gulf Research Program](http://www.nationalacademies.org/gulf/index.html) exploratory grant in 2016. The project in which the forum is based is entitled, _Can deliberative discussions lay a foundation for integrated decision-making networks?_. It was developed with [Susan Lovelace](http://marinebiology.cofc.edu/about-the-program/faculty-listing/lovelace-susan.php) from the [South Carolina Sea Grant Consortium](http://www.scseagrant.org) and the College of Charleston and [Justin Reedy](http://justinreedy.org) from the [University of Oklahoma](http://www.ou.edu). The project seeks to engage the public, natural resource managers, and decision-makers in a deliberative process to address issues facing coastal communities. 
 
 <br />
 Below are links to my publications and in a few papers that are in progress. 

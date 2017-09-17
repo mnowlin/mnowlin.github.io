@@ -31,9 +31,9 @@ My [research]({{ site.url }}/research) and [teaching]({{ site.url }}/teaching) i
 
 ## Current Courses 
 
-<i class="fa fa-mortar-board"></i>&nbsp;&nbsp;<a href="{{ site.url}}/teaching/poli319.html">Sustainable Resource Management (POLI 319)</a> 
+<i class="fa fa-mortar-board"></i>&nbsp;&nbsp;<a href="{{ site.url}}/teaching/poli319.html">Sustainable Resource Management</a> 
 
 <br />
-<i class="fa fa-mortar-board"></i>&nbsp;&nbsp;Public Policy (EVSS/PUBA 602), Fall 2017
+<i class="fa fa-mortar-board"></i>&nbsp;&nbsp;<a href="{{ site.url}}/teaching/evss602.html">Public Policy</a>
 
 <nav class="navbar navbar-right"><a href="{{ site.url }}/teaching">&rarr; Other Courses</a></nav>
