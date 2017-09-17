@@ -6,22 +6,26 @@ title: Current and Past Courses
 
 ## Current Courses
 
-<i class="fa fa-mortar-board"></i>&nbsp;&nbsp;<a href="{{ site.url}}/teaching/poli319.html">Sustainable Resource Management (POLI 319)</a> 
+<i class="fa fa-mortar-board"></i>&nbsp;&nbsp;<a href="{{ site.url}}/teaching/poli319.html">Sustainable Resource Management (POLI 319)</a>: _This course examines the multiple ways that common-pool resources can be managed from markets, states, and a vary of institutional arrangements in-between_. 
 
-<i class="fa fa-mortar-board"></i>&nbsp;&nbsp;<a href="{{ site.url}}/teaching/evss602.html">Public Policy (EVSS/PUBA)</a> 
+<br />
+<i class="fa fa-mortar-board"></i>&nbsp;&nbsp;<a href="{{ site.url}}/teaching/evss602.html">Public Policy (EVSS/PUBA)</a>: _This course examines the major theories of the policymaking process_.
 
 
 ## Past Courses
 
-[American Government]({{ site.url }}/files/pols101_syllabus.pdf)
+<i class="fa fa-mortar-board"></i>&nbsp;&nbsp;<a href="{{ site.url}}/teaching/fye.html"> First Year Experience: The Politcs of Nuclear Energy in the United States</a>
 
-Capstone: Information and Public Policy
+<br />
+<i class="fa fa-mortar-board"></i>&nbsp;&nbsp;<a href="{{ site.url}}/teaching/poli101.html">American Government</a>
 
-[Doing Research in Political Science]({{ site.url }}/files/UGmethodsFall14.pdf)
+<br />
+<i class="fa fa-mortar-board"></i>&nbsp;&nbsp;<a href="{{ site.url}}/teaching/poli205.html">Doing Research in Political Science</a>
 
-Environmental Policy
+<br />
+<i class="fa fa-mortar-board"></i>&nbsp;&nbsp;<a href="{{ site.url}}/teaching/poli307.html">Environmental Policy</a>
 
-[FYE: The Politcs of Nuclear Energy in the US]({{ site.url }}/files/FYEsyllabus.pdf)
-
+<br />
+<i class="fa fa-mortar-board"></i>&nbsp;&nbsp;<a href="{{ site.url}}/teaching/poli405.html">Capstone: Information and Public Policy</a>
 
 

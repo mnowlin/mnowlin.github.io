@@ -22,10 +22,10 @@ My [research]({{ site.url }}/research) and [teaching]({{ site.url }}/teaching) i
 <p>2016&nbsp;&nbsp;&nbsp;&nbsp; <i class="fa fa-file"></i>&nbsp;&nbsp;<a href="{{ site.url}}/research/psj2016.html">"Modeling Issue Definitions using Quantitative Text Analysis."</a>&nbsp;<em>Policy Studies Journal</em>,&nbsp;44(3): 309-331</p>
 
 <br />
-<p>2016&nbsp;&nbsp;&nbsp;&nbsp;<i class="fa fa-file-o"></i>&nbsp;&nbsp;<a href="{{ site.url}}/research/nowlinMPSA2016.html">"The Climate Change Policy Regime and Information Networks in the United States Congress"</a></p>
+<p>2017&nbsp;&nbsp;&nbsp;&nbsp;<i class="fa fa-file-o"></i>&nbsp;&nbsp;<a href="{{ site.url}}/research/mpsa2017.html">"Value Systems and Environmental Policy: Cultural and Environmental Cognition and Climate Change Risk"</a></p>
 
 <br />
-<p>2016&nbsp;&nbsp;&nbsp;&nbsp;<i class="fa fa-file-o"></i>&nbsp;&nbsp;<a href="{{ site.url}}/research/nowlin_parkinsonMPSA2016.html">"Cultural or Scientific Consensus? Cultural Cognition, Climate Science Knowledge, and Policy Preferences"</a></p>
+<p>2016&nbsp;&nbsp;&nbsp;&nbsp;<i class="fa fa-file-o"></i>&nbsp;&nbsp;<a href="{{ site.url}}/research/nowlinMPSA2016.html">"The Climate Change Policy Regime and Information Networks in the United States Congress"</a></p>
 
 <nav class="navbar navbar-right"><a href="{{ site.url }}/research">&rarr; Other Papers</a></nav>
 
