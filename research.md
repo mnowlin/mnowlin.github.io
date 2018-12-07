@@ -15,14 +15,11 @@ Our Coastal Future Forum received funding from a National Academies [Gulf Resear
 Below are links to my publications and in a few papers that are in progress. --> 
 
 
-<h3><a href="{{ site.url }}/files/nowlinCVshort.pdf"><em>Curriculum Vitae</em></a>&nbsp;<i class="fa fa-file-pdf-o"></i></h3>
+<h3><a href="{{ site.url }}/files/nowlinCVshort.pdf"><em>Curriculum Vitae</em></a>&nbsp;<i class="fa fa-file-pdf-"></i></h3>
        
-
-
-
 ## Books 
 
-
+<p><em>Environmental Policymaking in an Era of Climate Change</em>&nbsp; 2019. &nbsp Routledge.&nbsp;<a href="{{ site.url}}/research/book.html">more info</a>&nbsp;<i class="fa fa-book"></i></p>  
 
 <hr class="separator">
 
@@ -31,7 +28,7 @@ Below are links to my publications and in a few papers that are in progress. -->
 <p>"'Hot Rocks that Shoot Ghost Bullets': Native American Perceptions of a Nuclear Waste Facility."&nbsp; 2017. &nbsp;<em>Politics, Groups, and Identities</em>,&nbsp;Forthcoming.&nbsp;<a href="{{ site.url}}/research/hot-rocks.html">more info</a>&nbsp;<i class="fa fa-file-o"></i></p>
 
 <br />
-<p>"Modeling Issue Definitions using Quantitative Text Analysis."</a>&nbsp;2016. &nbsp;<em>Policy Studies Journal</em>,&nbsp; 44(3): 309-331. &nbsp;<a href="{{ site.url}}/research/issue-definitions.html">more info</a>&nbsp;<i class="fa fa-file-o"></i></p>
+<p>"Modeling Issue Definitions using Quantitative Text Analysis."&nbsp;2016. &nbsp;<em>Policy Studies Journal</em>,&nbsp; 44(3): 309-331. &nbsp;<a href="{{ site.url}}/research/issue-definitions.html">more info</a>&nbsp;<i class="fa fa-file-o"></i></p>
 
 <br />
 <p>2016&nbsp;&nbsp;&nbsp;&nbsp; <i class="fa fa-file"></i>&nbsp;&nbsp;<a href="{{ site.url}}/research/pa2016.html">"Cultural Theory and Managerial Values: Examining Trust as a Motivation for Collaboration."</a>&nbsp;<em>Public Adminstration</em>,&nbsp;94(4): 915-932</p>
@@ -58,10 +55,4 @@ Below are links to my publications and in a few papers that are in progress. -->
 <p>2008&nbsp;&nbsp;&nbsp;&nbsp; <i class="fa fa-file"></i>&nbsp;&nbsp;<a href="{{ site.url}}/research/op2008.html">"The Implementation of the Oklahoma Marriage Initiative to Individuals Receiving Temporary Assistance for Needy Families."</a>&nbsp;<em>Oklahoma Politics</em>,&nbsp;17:111-131</p>
 
 
-## Working Papers 
-
-<p>2016&nbsp;&nbsp;&nbsp;&nbsp;<i class="fa fa-file-o"></i>&nbsp;&nbsp;<a href="{{ site.url}}/research/nowlinMPSA2016.html">"The Climate Change Policy Regime and Information Networks in the United States Congress"</a></p>
-
-<br />
-<p>2016&nbsp;&nbsp;&nbsp;&nbsp;<i class="fa fa-file-o"></i>&nbsp;&nbsp;<a href="{{ site.url}}/research/nowlin_parkinsonMPSA2016.html">"Cultural or Scientific Consensus? Cultural Cognition, Climate Science Knowledge, and Policy Preferences"</a></p>
 
