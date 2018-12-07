@@ -10,7 +10,7 @@ I am an assistant professor of [political science](http://polisci.cofc.edu/) at 
 My [research]({{ site.url }}/research) and [teaching]({{ site.url }}/teaching) interests are in public policy, with a specific interest in environmental and energy policy. Much of my work is focused on climate change and nuclear energy.
 
 <br />
-See my <em>curriculum vitae</em><a href="{{ site.url }}/files/nowlinCVshort.pdf" class="badge badge-small">&nbsp;&nbsp;<i class="fa fa-file-pdf-o"></i>&nbsp;pdf</a>
+See my <em>Curriculum Vitae</em><a href="{{ site.url }}/files/nowlinCVshort.pdf" class="badge badge-small">&nbsp;&nbsp;<i class="fa fa-file-pdf-o"></i>&nbsp;pdf</a>
 
 
 ## Recent Papers
