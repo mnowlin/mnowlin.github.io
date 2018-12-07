@@ -15,11 +15,11 @@ Our Coastal Future Forum received funding from a National Academies [Gulf Resear
 Below are links to my publications and in a few papers that are in progress. --> 
 
 
-<h3><a href="{{ site.url }}/files/nowlinCVshort.pdf"><em>Curriculum Vitae</em></a>&nbsp;<i class="fa fa-file-pdf-"></i></h3>
+<h3><a href="{{ site.url }}/files/nowlinCVshort.pdf"><em>Curriculum Vitae</em></a>&nbsp;<i class="fa fa-file-pdf-o"></i></h3>
        
 ## Books 
 
-<p><em>Environmental Policymaking in an Era of Climate Change</em>&nbsp; 2019. &nbsp; Routledge.&nbsp;<a href="{{ site.url}}/research/book.html">more info</a>&nbsp;<i class="fa fa-book"></i></p>  
+<p><em>Environmental Policymaking in an Era of Climate Change.</em>&nbsp; 2019. &nbsp; Routledge.&nbsp;<a href="{{ site.url}}/research/book.html">more info</a>&nbsp;<i class="fa fa-book"></i></p>  
 
 <hr class="separator">
 

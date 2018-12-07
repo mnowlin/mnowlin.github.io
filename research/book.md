@@ -1,6 +1,5 @@
 ---
 layout: book
-permalink: /book/
 title: Environmental Policymaking and Governance in an Era of Climate Change
 ---
 
