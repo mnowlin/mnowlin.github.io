@@ -15,16 +15,20 @@ Our Coastal Future Forum received funding from a National Academies [Gulf Resear
 Below are links to my publications and in a few papers that are in progress. --> 
 
 <br />
-<p>Here is my <em>Curriculum Vitae</em><a href="{{ site.url }}/files/nowlinCVfull.pdf" class="badge badge-small">&nbsp;&nbsp;<i class="fa fa-file-pdf-o"></i>&nbsp;pdf</a></p>
+<h3><em>Curriculum Vitae</em><a href="{{ site.url }}/files/nowlinCVshort.pdf" class="badge badge-small">&nbsp;&nbsp;<i class="fa fa-file-pdf-o"></i>&nbsp;pdf</a></h3>
        
 
-<hr class="separator">
+
 
 ## Books 
 
+
+
+<hr class="separator">
+
 ## Refereed Articles 
 
-<p>2017&nbsp;&nbsp;&nbsp;&nbsp; <i class="fa fa-file"></i>&nbsp;&nbsp;<a href="{{ site.url}}/research/pgi2017.html">"'Hot Rocks that Shoot Ghost Bullets': Native American Perceptions of a Nuclear Waste Facility."</a>&nbsp;<em>Politics, Groups, and Identities</em>,&nbsp;Forthcoming</p>&nbsp; <a href="{{ site.url}}/research/pgi2017.html"> class="boxlink">more info</a>
+<p>2017&nbsp;&nbsp;&nbsp;&nbsp; <i class="fa fa-file"></i>&nbsp;&nbsp;<a href="{{ site.url}}/research/pgi2017.html">"'Hot Rocks that Shoot Ghost Bullets': Native American Perceptions of a Nuclear Waste Facility."</a>&nbsp;<em>Politics, Groups, and Identities</em>,&nbsp;Forthcoming <a href="{{ site.url}}/research/hot-rocks.html">more info</a>
 
 <br />
 <p>2016&nbsp;&nbsp;&nbsp;&nbsp; <i class="fa fa-file"></i>&nbsp;&nbsp;<a href="{{ site.url}}/research/psj2016.html">"Modeling Issue Definitions using Quantitative Text Analysis."</a>&nbsp;<em>Policy Studies Journal</em>,&nbsp; 44(3): 309-331</p>
