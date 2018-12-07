@@ -4,15 +4,15 @@ title:
 description: "about me"
 ---
 
-<em>Curriculum Vitae</em><a href="{{ site.url }}/files/nowlinCVfull.pdf" class="badge badge-small">&nbsp;&nbsp;<i class="fa fa-file-pdf-o"></i>&nbsp;pdf</a>
+## About Me 
+
+I am an assistant professor of [political science](http://polisci.cofc.edu/) at the [College of Charleston](http://cofc.edu/). I am also affiliated with the [Sustainability Literacy Institute](http://sustain.cofc.edu/sustainability-literacy-institute/index.php) and I am a research fellow with the [Center for Public Choice and Market Process](http://sb.cofc.edu/centers/publicchoice/). Finally, I am co-director of the [Environmental Policy Research Group](http://polisci.cofc.edu/student-research/environmental-policy-research-group/index.php) with [Dr. Annette Watson](http://polisci.cofc.edu/about/faculty-staff-listing/watson-annette.php).  
+
+My My [research]({{ site.url }}/research) and [teaching]({{ site.url }}/teaching) interests are in public policy, with a specific interest in environmental and energy policy. Much of my work is focused on climate change and nuclear energy.
 
 <br />
-I am an assistant professor of [Political Science](http://polisci.cofc.edu/) at the [College of Charleston](http://cofc.edu/). 
+See my <em>curriculum vitae</em><a href="{{ site.url }}/files/nowlinCVshort.pdf" class="badge badge-small">&nbsp;&nbsp;<i class="fa fa-file-pdf-o"></i>&nbsp;pdf</a>
 
-<!--and a research fellow with the [Initiative for Public Choice and Market Process](http://sb.cofc.edu/centers/publicchoice/).-->
-
-<br />
-My [research]({{ site.url }}/research) and [teaching]({{ site.url }}/teaching) interests are in public policy, with a specific interest in environmental and energy policy.
 
 ## Recent Papers
 
