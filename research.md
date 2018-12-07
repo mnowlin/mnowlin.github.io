@@ -1,18 +1,18 @@
 ---
 layout: research
 permalink: /research/
-title: Research
+title: Publications
 tags: [publications]
 comments: false
 ---
 
-Currently I have two major projects in development; a [book](http://matthewcnowlin.com/book/) project on climate change policy and [Our Coastal Future Forum](http://www.scseagrant.org/Content/?cid=937).
+<!-- Currently I have two major projects in development; a [book](http://matthewcnowlin.com/book/) project on climate change policy and [Our Coastal Future Forum](http://www.scseagrant.org/Content/?cid=937).
 
 <br />
 Our Coastal Future Forum received funding from a National Academies [Gulf Research Program](http://www.nationalacademies.org/gulf/index.html) exploratory grant in 2016. The project in which the forum is based is entitled, _Can deliberative discussions lay a foundation for integrated decision-making networks?_. It was developed with [Susan Lovelace](http://marinebiology.cofc.edu/about-the-program/faculty-listing/lovelace-susan.php) from the [South Carolina Sea Grant Consortium](http://www.scseagrant.org) and the College of Charleston and [Justin Reedy](http://justinreedy.org) from the [University of Oklahoma](http://www.ou.edu). The project seeks to engage the public, natural resource managers, and decision-makers in a deliberative process to address issues facing coastal communities. 
 
 <br />
-Below are links to my publications and in a few papers that are in progress. 
+Below are links to my publications and in a few papers that are in progress. --> 
 
 <br />
 <p>Here is my <em>Curriculum Vitae</em><a href="{{ site.url }}/files/nowlinCVfull.pdf" class="badge badge-small">&nbsp;&nbsp;<i class="fa fa-file-pdf-o"></i>&nbsp;pdf</a></p>
@@ -20,9 +20,11 @@ Below are links to my publications and in a few papers that are in progress.
 
 <hr class="separator">
 
-## Publications
+## Books 
 
-<p>2017&nbsp;&nbsp;&nbsp;&nbsp; <i class="fa fa-file"></i>&nbsp;&nbsp;<a href="{{ site.url}}/research/pgi2017.html">"'Hot Rocks that Shoot Ghost Bullets': Native American Perceptions of a Nuclear Waste Facility."</a>&nbsp;<em>Politics, Groups, and Identities</em>,&nbsp;Forthcoming</p>
+## Refereed Articles 
+
+<p>2017&nbsp;&nbsp;&nbsp;&nbsp; <i class="fa fa-file"></i>&nbsp;&nbsp;<a href="{{ site.url}}/research/pgi2017.html">"'Hot Rocks that Shoot Ghost Bullets': Native American Perceptions of a Nuclear Waste Facility."</a>&nbsp;<em>Politics, Groups, and Identities</em>,&nbsp;Forthcoming</p>&nbsp; <a href="{{ site.url}}/research/pgi2017.html"> class="boxlink">more info</a>
 
 <br />
 <p>2016&nbsp;&nbsp;&nbsp;&nbsp; <i class="fa fa-file"></i>&nbsp;&nbsp;<a href="{{ site.url}}/research/psj2016.html">"Modeling Issue Definitions using Quantitative Text Analysis."</a>&nbsp;<em>Policy Studies Journal</em>,&nbsp; 44(3): 309-331</p>
