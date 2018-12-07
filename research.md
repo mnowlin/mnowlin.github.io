@@ -1,7 +1,7 @@
 ---
 layout: research
 permalink: /research/
-title: Publications
+title:
 tags: [publications]
 comments: false
 ---
@@ -15,7 +15,7 @@ Our Coastal Future Forum received funding from a National Academies [Gulf Resear
 Below are links to my publications and in a few papers that are in progress. --> 
 
 
-<h3><a href="{{ site.url }}/files/nowlinCVshort.pdf"><em>Curriculum Vitae</em></a> class="badge badge-small">&nbsp<i class="fa fa-file-pdf-o"></i></h3>
+<h3><a href="{{ site.url }}/files/nowlinCVshort.pdf"><em>Curriculum Vitae</em></a>&nbsp;<i class="fa fa-file-pdf-o"></i></h3>
        
 
 
@@ -28,10 +28,10 @@ Below are links to my publications and in a few papers that are in progress. -->
 
 ## Refereed Articles 
 
-<p>"'Hot Rocks that Shoot Ghost Bullets': Native American Perceptions of a Nuclear Waste Facility."&nbsp; 2017. &nbsp;<em>Politics, Groups, and Identities</em>,&nbsp;Forthcoming <a href="{{ site.url}}/research/hot-rocks.html">more info</a><i class="fa fa-file-o"></i></p>
+<p>"'Hot Rocks that Shoot Ghost Bullets': Native American Perceptions of a Nuclear Waste Facility."&nbsp; 2017. &nbsp;<em>Politics, Groups, and Identities</em>,&nbsp;Forthcoming.&nbsp;<a href="{{ site.url}}/research/hot-rocks.html">more info</a>&nbsp;<i class="fa fa-file-o"></i></p>
 
 <br />
-<p>2016&nbsp;&nbsp;&nbsp;&nbsp; <i class="fa fa-file"></i>&nbsp;&nbsp;<a href="{{ site.url}}/research/psj2016.html">"Modeling Issue Definitions using Quantitative Text Analysis."</a>&nbsp;<em>Policy Studies Journal</em>,&nbsp; 44(3): 309-331</p>
+<p>"Modeling Issue Definitions using Quantitative Text Analysis."</a>&nbsp;2016. &nbsp;<em>Policy Studies Journal</em>,&nbsp; 44(3): 309-331. &nbsp;<a href="{{ site.url}}/research/issue-definitions.html">more info</a>&nbsp;<i class="fa fa-file-o"></i></p>
 
 <br />
 <p>2016&nbsp;&nbsp;&nbsp;&nbsp; <i class="fa fa-file"></i>&nbsp;&nbsp;<a href="{{ site.url}}/research/pa2016.html">"Cultural Theory and Managerial Values: Examining Trust as a Motivation for Collaboration."</a>&nbsp;<em>Public Adminstration</em>,&nbsp;94(4): 915-932</p>
