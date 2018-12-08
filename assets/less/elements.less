@@ -65,6 +65,28 @@ svg:not(:root) {
     color: @primary;
   }
 }
+
+.btn-link {
+  display: inline-block;
+  margin-bottom: 20px;
+  padding: 8px 20px;
+  .font-rem(14);
+  background-color: @white;
+  color: @black;
+  border-width: 2px !important;
+  border-style: solid !important;
+  border-color: @black;
+  .rounded(3px);
+  &:visited {
+    color: @white;
+  }
+  &:hover {
+    background-color: @white;
+    color: @primary;
+  }
+}
+
+
 .btn-success {
   background-color: @success;
   color: @white;
