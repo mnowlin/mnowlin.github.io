@@ -35,31 +35,36 @@ Below are links to my publications and in a few papers that are in progress. -->
 <p><i class="fa fa-file-o"></i>&nbsp;"'Hot Rocks that Shoot Ghost Bullets': Native American Perceptions of a Nuclear Waste Facility."&nbsp; 2017. &nbsp;<em>Politics, Groups, and Identities</em>,&nbsp;Forthcoming.&nbsp;<a href="{{ site.url}}/research/hot-rocks.html" class="btn-info">more info</a></p>
 
 <br />
-<p><i class="fa fa-file-o"></i>"Modeling Issue Definitions using Quantitative Text Analysis."&nbsp;2016. &nbsp;<em>Policy Studies Journal</em>,&nbsp; 44(3): 309-331. &nbsp;<a href="{{ site.url}}/research/issue-definitions.html" class="btn-info">more info</a></p>
+<p><i class="fa fa-file-o"></i>&nbsp;"Modeling Issue Definitions using Quantitative Text Analysis."&nbsp;2016. &nbsp;<em>Policy Studies Journal</em>,&nbsp; 44(3): 309-331. &nbsp;<a href="{{ site.url}}/research/issue-definitions.html" class="btn-info">more info</a></p>
 
 <br />
-<p><i class="fa fa-file-o"></i>"Cultural Theory and Managerial Values: Examining Trust as a Motivation for Collaboration."&nbsp;2016. &nbsp;<em>Public Adminstration</em>,&nbsp;94(4): 915-932 <a href="{{ site.url}}/research/pa2016.html" class="btn=info">more info</a></p>
+<p><i class="fa fa-file-o"></i>&nbsp;"Cultural Theory and Managerial Values: Examining Trust as a Motivation for Collaboration."&nbsp;2016. &nbsp;<em>Public Adminstration</em>,&nbsp; 94(4): 915-932. &nbsp;<a href="{{ site.url}}/research/ct-managers.html" class="btn-info">more info</a></p>
 
 <br />
-<p>2016&nbsp;&nbsp;&nbsp;&nbsp; <i class="fa fa-file"></i>&nbsp;&nbsp;<a href="{{ site.url}}/research/rpr2016.html">"Policy Change, Policy Feedback, and Interest Mobilization: The Politics of Nuclear Waste Management."</a>&nbsp;<em>Review of Policy Research</em>,&nbsp;33(1):51-70</p>
+<p><i class="fa fa-file-o"></i>&nbsp;"Policy Change, Policy Feedback, and Interest Mobilization: The Politics of Nuclear Waste Management."&nbsp;2016. &nbsp;<em>Review of Policy Research</em>,&nbsp; 33(1):51-70. &nbsp;<a href="{{ site.url}}/research/change-feedback.html" class="btn-info">more info</a></p>
 
 <br />
-<p>2015&nbsp;&nbsp;&nbsp;&nbsp; <i class="fa fa-file"></i>&nbsp;&nbsp;<a href="{{ site.url}}/research/ans2015.html">"Partisanship, Information, and Public Opinion about Yucca Mountain."</a>&nbsp;<em>Proceedings of the 15th International High-Level Radioactive Waste Management Conference</em>,&nbsp;226-231</p>
+<p><i class="fa fa-file-o"></i>&nbsp;"Partisanship, Information, and Public Opinion about Yucca Mountain."&nbsp;2015. &nbsp;<em>Proceedings of the 15th International High-Level Radioactive Waste Management Conference</em>,&nbsp; 226-231. &nbsp;<a href="{{ site.url}}/research/change-feedback.html" class="btn-info">more info</a></p>
 
 <br />
-<p>2012&nbsp;&nbsp;&nbsp;&nbsp; <i class="fa fa-file"></i>&nbsp;&nbsp;<a href="{{ site.url}}/research/ssq2012.html">"Reconsidering the Relationship Between Cultural Theory, Political Ideology, and Political Knowledge."</a>&nbsp;<em>Social Science Quarterly</em>,&nbsp;99(3):713-731</p>
+<p><i class="fa fa-file-o"></i>&nbsp;"Reconsidering the Relationship Between Cultural Theory, Political Ideology, and Political Knowledge."&nbsp;2012. &nbsp;<em>Social Science Quarterly</em>,&nbsp; 99(3):713-731. &nbsp;<a href="{{ site.url}}/research/ct-knowledge.html" class="btn-info">more info</a></p>
 
 <br />
-<p>2012&nbsp;&nbsp;&nbsp;&nbsp; <i class="fa fa-file"></i>&nbsp;&nbsp;<a href="{{ site.url}}/research/wcs2012.html">"Weather, Climate and Worldviews: The Sources and Consequences of Public Perceptions of Changes in Local Weather Patterns."</a>&nbsp;<em>Weather, Climate, and Society</em>,&nbsp;4(2):132-144</p>
+<p><i class="fa fa-file-o"></i>&nbsp;"Weather, Climate and Worldviews: The Sources and Consequences of Public Perceptions of Changes in Local Weather Patterns."&nbsp;2012. &nbsp;<em>Weather, Climate, and Society</em>,&nbsp;4(2):132-144. &nbsp;<a href="{{ site.url}}/research/ct-weather.html" class="btn-info">more info</a></p>
 
 <br />
-<p>2011&nbsp;&nbsp;&nbsp;&nbsp; <i class="fa fa-file"></i>&nbsp;&nbsp;<a href="{{ site.url}}/research/psj2011.html">"Theories of the Policy Process: State of the Research and Emerging Trends"</a>&nbsp;<em>Policy Studies Journal</em>,&nbsp;39(s1):41-60</p>
+<p><i class="fa fa-file-o"></i>&nbsp;"Theories of the Policy Process: State of the Research and Emerging Trends"&nbsp;2011. &nbsp;<em>Policy Studies Journal</em>,&nbsp;39(s1):41-60. &nbsp;<a href="{{ site.url}}/research/process-theory.html" class="btn-info">more info</a></p>
 
 <br />
-<p>2011&nbsp;&nbsp;&nbsp;&nbsp; <i class="fa fa-file"></i>&nbsp;&nbsp;<a href="{{ site.url}}/research/ra2011.html">"Reversing Nuclear Opposition: Evolving Public Acceptance of a Permanent Nuclear Waste Disposal Facility."</a>&nbsp;<em>Risk Analysis</em>,&nbsp;31(4):629-644</p>
+<p><i class="fa fa-file-o"></i>&nbsp;"Reversing Nuclear Opposition: Evolving Public Acceptance of a Permanent Nuclear Waste Disposal Facility."&nbsp;2011. &nbsp;<em>Risk Analysis</em>,&nbsp;31(4):629-644. &nbsp;<a href="{{ site.url}}/research/nuclear-nimby.html" class="btn-info">more info</a></p>
 
 <br />
-<p>2008&nbsp;&nbsp;&nbsp;&nbsp; <i class="fa fa-file"></i>&nbsp;&nbsp;<a href="{{ site.url}}/research/op2008.html">"The Implementation of the Oklahoma Marriage Initiative to Individuals Receiving Temporary Assistance for Needy Families."</a>&nbsp;<em>Oklahoma Politics</em>,&nbsp;17:111-131</p>
+<p><i class="fa fa-file-o"></i>&nbsp;"The Implementation of the Oklahoma Marriage Initiative to Individuals Receiving Temporary Assistance for Needy Families."&nbsp;2008. &nbsp;<em>Oklahoma Politics</em>,&nbsp;17:111-131. &nbsp;<a href="{{ site.url}}/research/ok-marriage.html" class="btn-info">more info</a></p>
+
+
+
+
+
 
 
 
