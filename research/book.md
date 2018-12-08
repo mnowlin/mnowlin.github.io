@@ -16,5 +16,5 @@ Below is the environmental policymaking process framework that I developed to or
 <br />
 
 <br />
-The specific topics developed in the book include the nature of values and value systems in determining beliefs about climate change; how changes in inputs may lead climate change to gain attention from the policymaking system; the development of environmental and climate change policy within (and across) the major policymaking institutions; the actors, subsystems, and networks that are engaged in the climate policy; and various policy design and implementation approaches across multiple levels of government to address climate change.
+The specific topics developed in the book include the nature of values and value systems in determining beliefs about climate change; how changes in inputs may lead climate change to gain attention from the policymaking system; the development of environmental and climate change policy within (and across) the major policymaking institutions; the actors, subsystems, and networks that are engaged in climate policy; and various policy design and implementation approaches across multiple levels of government that exist to address climate change.
 
