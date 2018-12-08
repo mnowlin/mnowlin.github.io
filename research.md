@@ -22,7 +22,7 @@ Below are links to my publications and in a few papers that are in progress. -->
 ## Books 
 
 <p><i class="fa fa-book"></i>&nbsp;<em>Environmental Policymaking in an Era of Climate Change.</em>&nbsp; 2019. &nbsp; Routledge.&nbsp;
- <a href="{{ site.url}}/research/book.html" class="btn-link">more info</a></p>
+ <a href="{{ site.url}}/research/book.html" class="btn">more info</a></p>
 <!-- <a href="{{ site.url}}/research/book.html"><b>more info</b></a><i class="fa fa-long-arrow-right"></i></p> -->
 
 <br />
