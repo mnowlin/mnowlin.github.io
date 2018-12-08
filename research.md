@@ -44,7 +44,7 @@ Below are links to my publications and in a few papers that are in progress. -->
 <p><i class="fa fa-file-o"></i>&nbsp;"Policy Change, Policy Feedback, and Interest Mobilization: The Politics of Nuclear Waste Management."&nbsp;2016. &nbsp;<em>Review of Policy Research</em>,&nbsp; 33(1):51-70. &nbsp;<a href="{{ site.url}}/research/change-feedback.html" class="btn-info">more info</a></p>
 
 <br />
-<p><i class="fa fa-file-o"></i>&nbsp;"Partisanship, Information, and Public Opinion about Yucca Mountain."&nbsp;2015. &nbsp;<em>Proceedings of the 15th International High-Level Radioactive Waste Management Conference</em>,&nbsp; 226-231. &nbsp;<a href="{{ site.url}}/research/change-feedback.html" class="btn-info">more info</a></p>
+<p><i class="fa fa-file-o"></i>&nbsp;"Partisanship, Information, and Public Opinion about Yucca Mountain."&nbsp;2015. &nbsp;<em>Proceedings of the 15th International High-Level Radioactive Waste Management Conference</em>,&nbsp; 226-231. &nbsp;<a href="{{ site.url}}/research/party-yucca.html" class="btn-info">more info</a></p>
 
 <br />
 <p><i class="fa fa-file-o"></i>&nbsp;"Reconsidering the Relationship Between Cultural Theory, Political Ideology, and Political Knowledge."&nbsp;2012. &nbsp;<em>Social Science Quarterly</em>,&nbsp; 99(3):713-731. &nbsp;<a href="{{ site.url}}/research/ct-knowledge.html" class="btn-info">more info</a></p>
