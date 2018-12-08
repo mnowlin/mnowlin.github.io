@@ -10,10 +10,11 @@ I am an assistant professor of [political science](http://polisci.cofc.edu/) at 
 My [research]({{ site.url }}/research) and [teaching]({{ site.url }}/teaching) interests are in public policy, with a specific interest in environmental and energy policy. Much of my work is focused on climate change and nuclear energy.
 
 <br />
-See my <em>Curriculum Vitae</em><a href="{{ site.url }}/files/nowlinCVshort.pdf" class="badge badge-small">&nbsp;&nbsp;<i class="fa fa-file-pdf-o"></i>&nbsp;pdf</a>
+<a href="{{ site.url }}/files/nowlinCVshort.pdf" class="btn">Curriculum Vitae <i class="fa fa-file-pdf-o"></i></a>
 
 
-## Recent Papers
+
+<!-- ## Recent Papers
 
 <p>2017&nbsp;&nbsp;&nbsp;&nbsp; <i class="fa fa-file"></i>&nbsp;&nbsp;<a href="{{ site.url}}/research/pgi2017.html">"'Hot Rocks that Shoot Ghost Bullets': Native American Perceptions of a Nuclear Waste Facility."</a>&nbsp;<em>Politics, Groups, and Identities</em>,&nbsp;Forthcoming</p>
 
@@ -35,4 +36,4 @@ See my <em>Curriculum Vitae</em><a href="{{ site.url }}/files/nowlinCVshort.pdf"
 <br />
 <i class="fa fa-mortar-board"></i>&nbsp;&nbsp;<a href="{{ site.url}}/teaching/evss602.html">Public Policy</a>
 
-<nav class="navbar navbar-right"><a href="{{ site.url }}/teaching">&rarr; Other Courses</a></nav>
+<nav class="navbar navbar-right"><a href="{{ site.url }}/teaching">&rarr; Other Courses</a></nav> -->
