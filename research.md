@@ -32,13 +32,13 @@ Below are links to my publications and in a few papers that are in progress. -->
 
 ## Refereed Articles 
 
-<p>"'Hot Rocks that Shoot Ghost Bullets': Native American Perceptions of a Nuclear Waste Facility."&nbsp; 2017. &nbsp;<em>Politics, Groups, and Identities</em>,&nbsp;Forthcoming.&nbsp;<a href="{{ site.url}}/research/hot-rocks.html">more info</a>&nbsp;<i class="fa fa-file-o"></i></p>
+<p><i class="fa fa-file-o"></i>&nbsp;"'Hot Rocks that Shoot Ghost Bullets': Native American Perceptions of a Nuclear Waste Facility."&nbsp; 2017. &nbsp;<em>Politics, Groups, and Identities</em>,&nbsp;Forthcoming.&nbsp;<a href="{{ site.url}}/research/hot-rocks.html" class="btn-info">more info</a></p>
 
 <br />
-<p>"Modeling Issue Definitions using Quantitative Text Analysis."&nbsp;2016. &nbsp;<em>Policy Studies Journal</em>,&nbsp; 44(3): 309-331. &nbsp;<a href="{{ site.url}}/research/issue-definitions.html">more info</a>&nbsp;<i class="fa fa-file-o"></i></p>
+<p><i class="fa fa-file-o"></i>"Modeling Issue Definitions using Quantitative Text Analysis."&nbsp;2016. &nbsp;<em>Policy Studies Journal</em>,&nbsp; 44(3): 309-331. &nbsp;<a href="{{ site.url}}/research/issue-definitions.html" class="btn-info">more info</a></p>
 
 <br />
-<p>2016&nbsp;&nbsp;&nbsp;&nbsp; <i class="fa fa-file"></i>&nbsp;&nbsp;<a href="{{ site.url}}/research/pa2016.html">"Cultural Theory and Managerial Values: Examining Trust as a Motivation for Collaboration."</a>&nbsp;<em>Public Adminstration</em>,&nbsp;94(4): 915-932</p>
+<p><i class="fa fa-file-o"></i>"Cultural Theory and Managerial Values: Examining Trust as a Motivation for Collaboration."&nbsp;2016. &nbsp;<em>Public Adminstration</em>,&nbsp;94(4): 915-932 <a href="{{ site.url}}/research/pa2016.html" class="btn=info">more info</a></p>
 
 <br />
 <p>2016&nbsp;&nbsp;&nbsp;&nbsp; <i class="fa fa-file"></i>&nbsp;&nbsp;<a href="{{ site.url}}/research/rpr2016.html">"Policy Change, Policy Feedback, and Interest Mobilization: The Politics of Nuclear Waste Management."</a>&nbsp;<em>Review of Policy Research</em>,&nbsp;33(1):51-70</p>
