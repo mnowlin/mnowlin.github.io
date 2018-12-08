@@ -26,7 +26,7 @@ Below are links to my publications and in a few papers that are in progress. -->
 <!-- <a href="{{ site.url}}/research/book.html"><b>more info</b></a><i class="fa fa-long-arrow-right"></i></p> -->
 
 <br />
-<p><i class="fa fa-book"></i>&nbsp;<em>Quantitative Research Methods for Political Science, Public Policy, and Public Administration.</em>&nbsp; 2017. &nbsp; University Libraries, University of Oklahoma. SHAREOK, Open Education Resource.&nbsp;<a href="{{ site.url}}/research/statsBook.html">more info</a><nav class="navbar navbar-right"></nav></p>  
+<p><i class="fa fa-book"></i>&nbsp;<em>Quantitative Research Methods for Political Science, Public Policy, and Public Administration.</em>&nbsp; 2017. &nbsp; University Libraries, University of Oklahoma. SHAREOK, Open Education Resource.&nbsp;<a href="{{ site.url}}/research/statsBook.html" class="btn-info">more info</a></p>  
 
 <hr class="separator">
 
