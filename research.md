@@ -21,7 +21,7 @@ Below are links to my publications and in a few papers that are in progress. -->
 
 ## Books 
 
-<p><i class="fa fa-book">&nbsp;<em>Environmental Policymaking in an Era of Climate Change.</em>&nbsp; 2019. &nbsp; Routledge.&nbsp;<a href="{{ site.url}}/research/book.html" class="badge badge-secondary">more info<nav class="navbar navbar-right"></a>&nbsp;</i></p>  
+<p><i class="fa fa-book">&nbsp;<em>Environmental Policymaking in an Era of Climate Change.</em>&nbsp; 2019. &nbsp; Routledge.&nbsp;<a href="{{ site.url}}/research/book.html" class="badge badge-secondary">more info<nav class="navbar navbar-right"></nav></a>&nbsp;</i></p>  
 
 <br />
 <p><em>Quantitative Research Methods for Political Science, Public Policy, and Public Administration.</em>&nbsp; 2017. &nbsp; University Libraries, University of Oklahoma. SHAREOK, Open Education Resource.&nbsp;<a href="{{ site.url}}/research/statsBook.html">more info</a>&nbsp;<i class="fa fa-book"></i></p>  
