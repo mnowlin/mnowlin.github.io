@@ -22,8 +22,8 @@ title: Courses Taught
 
 <br />
 <p><i class="fa fa-mortar-board"></i>&nbsp; Introduction to Public Policy 
-<a href="{{ site.url }}/teaching/PPsyllabus.pdf" class="btn-info">syllabus &nbsp;<i class="fa fa-file-pdf-o"></i></a>
-<!-- <a href="{{ site.url}}/teaching/poli205.html" class="btn-info">more info</a></p> -->
+<a href="{{ site.url }}/teaching/PPsyllabus.pdf" class="btn-info">syllabus &nbsp;<i class="fa fa-file-pdf-o"></i></a></p>
+<!-- <a href="{{ site.url}}/teaching/poli205.html" class="btn-info">more info</a> -->
 
 <br />
 <p><i class="fa fa-mortar-board"></i>&nbsp; Environmental Policy
@@ -47,7 +47,7 @@ title: Courses Taught
 <a href="{{ site.url}}/teaching/evss602.html" class="btn-info">more info</a></p>
 
 <br />
-<p><i class="fa fa-mortar-board"></i>&nbsp; Research and Management in Environmental Organizations
+<p><i class="fa fa-mortar-board"></i>&nbsp; Research and Management in Environmental Organizations </p>
 <!-- <a href="{{ site.url }}/teaching/PPfall18.pdf" class="btn-info">syllabus &nbsp;<i class="fa fa-file-pdf-o"></i></a>
 <a href="{{ site.url}}/teaching/evss602.html" class="btn-info">more info</a></p> -->
 
